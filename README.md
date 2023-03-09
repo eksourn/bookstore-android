@@ -1,12 +1,15 @@
-# bookstore-android
+# Online Bookstore-Android App Emulation
 ## Phase 3 Mobile Bookstore
 ### Ehan Sourn Kyaw-Han Ryan Ritchie
 
 This is phase 3 of our 3 part semester long group project for UML COMP.3100 Database II. Created using Android Studio and the prexisting bookstoredatabase we made.
 
 # Requirements
+
 -Android Studio
+
 -Xampp
+
 -JDK Mininum 1.8
 
 # How to Run
